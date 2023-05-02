@@ -1,0 +1,31 @@
+C:\Users\lanti\Desktop\Lycée Raymond\Cours\Piguet\PPE\GSB-Dotations\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\lanti\Desktop\Lycée Raymond\Cours\Piguet\PPE\GSB-Dotations\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\lanti\Desktop\Lycée Raymond\Cours\Piguet\PPE\GSB-Dotations\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\lanti\Desktop\Lycée Raymond\Cours\Piguet\PPE\GSB-Dotations\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\lanti\Desktop\Lycée Raymond\Cours\Piguet\PPE\GSB-Dotations\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\lanti\Desktop\Lycée Raymond\Cours\Piguet\PPE\GSB-Dotations\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\lanti\Desktop\Lycée Raymond\Cours\Piguet\PPE\GSB-Dotations\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\lanti\Desktop\Lycée Raymond\Cours\Piguet\PPE\GSB-Dotations\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\lanti\Desktop\Lycée Raymond\Cours\Piguet\PPE\GSB-Dotations\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\lanti\Desktop\Lycée Raymond\Cours\Piguet\PPE\GSB-Dotations\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\lanti\Desktop\Lycée Raymond\Cours\Piguet\PPE\GSB-Dotations\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\lanti\Desktop\Lycée Raymond\Cours\Piguet\PPE\GSB-Dotations\WindowsFormsApp1 - Copie\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\lanti\Desktop\Lycée Raymond\Cours\Piguet\PPE\GSB-Dotations\WindowsFormsApp1 - Copie\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\lanti\Desktop\Lycée Raymond\Cours\Piguet\PPE\GSB-Dotations\WindowsFormsApp1 - Copie\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\lanti\Desktop\Lycée Raymond\Cours\Piguet\PPE\GSB-Dotations\WindowsFormsApp1 - Copie\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\lanti\Desktop\Lycée Raymond\Cours\Piguet\PPE\GSB-Dotations\WindowsFormsApp1 - Copie\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\lanti\Desktop\Lycée Raymond\Cours\Piguet\PPE\GSB-Dotations\WindowsFormsApp1 - Copie\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\lanti\Desktop\Lycée Raymond\Cours\Piguet\PPE\GSB-Dotations\WindowsFormsApp1 - Copie\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\lanti\Desktop\Lycée Raymond\Cours\Piguet\PPE\GSB-Dotations\WindowsFormsApp1 - Copie\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\lanti\Desktop\Lycée Raymond\Cours\Piguet\PPE\GSB-Dotations\WindowsFormsApp1 - Copie\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\lanti\Desktop\Lycée Raymond\Cours\Piguet\PPE\GSB-Dotations\WindowsFormsApp1 - Copie\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\lanti\Desktop\Lycée Raymond\Cours\Piguet\PPE\GSB-Dotations\WindowsFormsApp1 - Copie\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\lanti\Desktop\Lycée Raymond\Cours\Piguet\PPE\GSB-Dotations\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+C:\Users\lanti\Desktop\Lycée Raymond\Cours\Piguet\PPE\GSB-Dotations\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form4.resources
+C:\Users\lanti\Desktop\Lycée Raymond\Cours\Piguet\PPE\GSB-Dotations\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form5.resources
+C:\Users\lanti\Desktop\Lycée Raymond\Cours\Piguet\PPE\GSB-Dotations\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MySql.Data.dll
+C:\Users\lanti\Desktop\Lycée Raymond\Cours\Piguet\PPE\GSB-Dotations\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\lanti\Desktop\Lycée Raymond\Cours\Piguet\PPE\GSB-Dotations\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\lanti\Desktop\Lycée Raymond\Cours\Piguet\PPE\GSB-Dotations\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\lanti\Desktop\Lycée Raymond\Cours\Piguet\PPE\GSB-Dotations\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.AspNetCore.Cryptography.Internal.xml
+C:\Users\lanti\Desktop\Lycée Raymond\Cours\Piguet\PPE\GSB-Dotations\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.AspNetCore.Cryptography.KeyDerivation.xml
